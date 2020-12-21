@@ -1,5 +1,5 @@
 
-public class MainArrayClass {
+public class arrayExamples {
 
 	private int [] marks = {70, 75 ,70 ,96 , 70};
 	private String [] names = {"Bilge", "Gokhan", "Kuniko", "Shuichi"};
